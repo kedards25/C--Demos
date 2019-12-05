@@ -1,0 +1,11 @@
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.csprojAssemblyReference.cache
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.AssemblyInfoInputs.cache
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.AssemblyInfo.cs
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.deps.json
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.runtimeconfig.json
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.runtimeconfig.dev.json
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.dll
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.pdb
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.dll
+c:\users\student\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.pdb
